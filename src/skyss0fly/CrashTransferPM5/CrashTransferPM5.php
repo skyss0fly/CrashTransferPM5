@@ -12,7 +12,7 @@ use pocketmine\utils\Config;
  * Class CrashTransfer
  * @package skyss0fly\CrashTransferPM5
  */
-class CrashTransferPM4 extends PluginBase implements Listener {
+class CrashTransferPM5 extends PluginBase implements Listener {
     
     public static $settings;
 
